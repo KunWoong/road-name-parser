@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="kwy.demo.parser.client.OpenApiClientTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-10T17:42:24" hostname="DESKTOP-MM3Q7OA" time="0.426">
-  <properties/>
-  <testcase name="validParameter()" classname="kwy.demo.parser.client.OpenApiClientTest" time="0.352"/>
-  <testcase name="invalidParameter()" classname="kwy.demo.parser.client.OpenApiClientTest" time="0.072"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

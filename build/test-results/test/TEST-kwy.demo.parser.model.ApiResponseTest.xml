@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="kwy.demo.parser.model.ApiResponseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-10T17:42:24" hostname="DESKTOP-MM3Q7OA" time="0.003">
-  <properties/>
-  <testcase name="getRnWithNullAddresses()" classname="kwy.demo.parser.model.ApiResponseTest" time="0.001"/>
-  <testcase name="getRnWithAddresses()" classname="kwy.demo.parser.model.ApiResponseTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
