@@ -23,6 +23,9 @@ tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
 }
 
+jar {
+    destinationDir(new File("/build"))
+}
 test {
     useJUnitPlatform()
 }
